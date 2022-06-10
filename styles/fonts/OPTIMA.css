@@ -1,0 +1,29 @@
+.font-Optima {
+    font-family: "OPTIMA" !important;
+  }
+  
+  @font-face {
+    font-family: OPTIMA;
+    font-style: normal;
+    font-weight: 300;
+    src: url("../../public/fonts/OPTIMA.TTF") format("truetype");
+  }
+  @font-face {
+    font-family: OPTIMA;
+    font-style: normal;
+    font-weight: 400;
+    src: url("../../public/fonts/OPTIMA.TTF") format("truetype");
+  }
+  @font-face {
+    font-family: OPTIMA;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../../public/fonts/OPTIMA.TTF") format("truetype");
+  }
+  @font-face {
+    font-family: OPTIMA;
+    font-style: normal;
+    font-weight: 600;
+    src: url("../../public/fonts/OPTIMA.TTF") format("truetype");
+  }
+  

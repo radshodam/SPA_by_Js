@@ -1,0 +1,10 @@
+.font-Tangerine {
+  font-family: "Tangerine" !important;
+}
+
+@font-face {
+  font-family: Tangerine;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../../fonts/Tangerine-Regular.ttf") format("truetype");
+}

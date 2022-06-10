@@ -1,0 +1,10 @@
+ .font-Calibri {
+  font-family: "Calibri" !important;
+}
+
+@font-face {
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../../public/fonts/Calibri.ttf") format("truetype");
+}

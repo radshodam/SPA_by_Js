@@ -1,0 +1,22 @@
+{
+  "name": "spa_by_js",
+  "version": "1.0.0",
+  "description": "SPA Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radshodam/SPA_by_Js.git"
+  },
+  "author": "radshodam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radshodam/SPA_by_Js/issues"
+  },
+  "homepage": "https://github.com/radshodam/SPA_by_Js#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.2"
+  }
+}
